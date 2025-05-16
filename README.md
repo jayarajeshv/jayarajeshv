@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+- 🔭 I’m currently working on a *Banking project*
+- 🌱 I’m currently learning **Distributed Systems**
+- 👯 I’m looking to collaborate on open source projects.
+- ⚡ Fun fact: I am probably binge watching F.R.I.E.N.D.S right now!
